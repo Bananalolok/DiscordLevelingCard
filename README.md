@@ -1,7 +1,7 @@
 # DiscordLevelingCard
-A library with Rank cards for your discord bot.
+A library with Rank cards for your discord bot. 
 
-[![Downloads](https://pepy.tech/badge/discordlevelingcard)](https://pepy.tech/project/discordlevelingcard)
+Downloads: 69
 
 ## card preview
 
